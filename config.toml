@@ -1,0 +1,12 @@
+baseURL = 'http://seunghalee91.github.io/'
+title = '게시글'
+
+languageCode = 'ko-KR'
+DefaultContentLanguage = "kr"
+theme = "hugo-hello-programmer-theme"
+
+paginate = 7
+
+[author]
+    name = "seunghalee91"
+    email = "tmdgkgk@gmail.com"
